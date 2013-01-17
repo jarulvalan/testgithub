@@ -3,3 +3,11 @@ white
 black
 green
 yellow
+one
+two
+tree
+four
+five
+six
+seven
+eight
